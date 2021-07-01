@@ -11,7 +11,7 @@ const Hello = data => {
              <body style="margin: 0; padding: 0;">
                 <br />
                 <br />
-                <div> you are our guest now </div>
+                <div> you are our guest now no covides</div>
                 <br />
                 <br />
              </body>
